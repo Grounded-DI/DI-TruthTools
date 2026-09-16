@@ -68,7 +68,7 @@ Open `AI_Detector_Report_CleanWaterWise.md` first. Review each evidence channel,
 
 The public record can support a proof of concept for provenance triage: ingest a document, preserve its bytes and metadata, calculate declared structural signals, route ambiguous cases to a reviewer, and export a reasoned report. A responsible evaluation would require a consented reference corpus, pre-registered labels, calibration, adversarial testing, and an appeal path before any operational use.
 
-Potential integration scenarios include editorial provenance review, internal content QA, and evidence-package preparation. No deployment, customer adoption, or accuracy benchmark is established here. Commercial licensing and integration inquiries: **[CONTACT PLACEHOLDER]**.
+Potential integration scenarios include editorial provenance review, internal content QA, and evidence-package preparation. No deployment, customer adoption, or accuracy benchmark is established here. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship, Provenance, and Intellectual Property
 
