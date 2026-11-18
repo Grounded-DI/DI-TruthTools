@@ -8,7 +8,7 @@ DI-TruthTools is a Grounded DI public report archive for structured content-revi
 
 The repository contains the dated [`AI_Detector_Report_CleanWaterWise.md`](AI_Detector_Report_CleanWaterWise.md). The report labels itself “AI Detector v1.0 – Grounded DI Edition” and records a sample analysis of the CleanWaterWise demonstration using structural markers, entropy-pattern observations, formula references, pacing, tone, a signal phrase, and metadata.
 
-The public tree does not contain a detector implementation, training data, labeled benchmark, calibration set, test suite, dependency manifest, or CI workflow. DI-TruthTools should therefore be read as a documented method and sample report, not as a validated classifier or an autonomous authorship authority.
+This repository publishes a method and one sample report. It includes no labeled benchmark or calibrated detection study, so the sample's likelihood labels remain report outputs.
 
 ## Why It Matters
 
@@ -66,9 +66,9 @@ Open `AI_Detector_Report_CleanWaterWise.md` first. Review each evidence channel,
 
 ## Evaluation and Integration Context
 
-The public record can support a proof of concept for provenance triage: ingest a document, preserve its bytes and metadata, calculate declared structural signals, route ambiguous cases to a reviewer, and export a reasoned report. A responsible evaluation would require a consented reference corpus, pre-registered labels, calibration, adversarial testing, and an appeal path before any operational use.
+A controlled evaluation can preserve document bytes and metadata, calculate declared structural signals, route ambiguous cases to a reviewer, and export the reasoning. A consented reference corpus, predefined labels, calibration, adversarial tests, and an appeal path would make accuracy measurable.
 
-Potential integration scenarios include editorial provenance review, internal content QA, and evidence-package preparation. No deployment, customer adoption, or accuracy benchmark is established here. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+Potential integration scenarios include editorial provenance review, internal content QA, and evidence-package preparation. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship, Provenance, and Intellectual Property
 
@@ -78,7 +78,7 @@ No open-source license is present. Public availability does not grant reuse righ
 
 ## Status
 
-**Status:** Active public method-and-report archive. It documents a proposed multi-signal review approach and preserves one sample output. It is not a certified AI detector, definitive authorship classifier, independent forensic opinion, or production integration.
+**Status:** Public method-and-report archive with a proposed multi-signal review and one recorded sample output.
 
 ## Discovery
 
